@@ -77,7 +77,7 @@ header {
   <main>
     <div class="imagen-perfil">
       <!-- Reemplaza 'imagenes/cocotextil.png' por el nombre real de tu archivo de imagen -->
-      <img src="tu-imagen.jpg" alt="Foto profesional">
+      <img src="cocotextil.png" alt="Foto profesional">
     </div>
 
     <section>
