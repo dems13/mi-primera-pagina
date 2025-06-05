@@ -1,6 +1,6 @@
 # mi-primera-pagina
 
-<!DOCTYPE html>
+<!PERFIL html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
