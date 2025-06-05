@@ -88,7 +88,7 @@
 
   <main>
     <div class="imagen-perfil">
-      <!-- Reemplaza 'tu-imagen.jpg' por el nombre real de tu archivo de imagen -->
+      <!-- Reemplaza 'imagenes/cocotextil.png' por el nombre real de tu archivo de imagen -->
       <img src="tu-imagen.jpg" alt="Foto profesional">
     </div>
 
