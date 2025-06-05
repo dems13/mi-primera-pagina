@@ -10,7 +10,7 @@
 </body>
 </html>
 
-<!DOCTYPE html>
+<!Perfil>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -89,7 +89,7 @@
   <main>
     <div class="imagen-perfil">
       <!-- Reemplaza 'imagenes/cocotextil.png' por el nombre real de tu archivo de imagen -->
-      <img src="cocotextil.png" alt="Foto profesional">
+      <img src="imagenes/cocotextil.png" alt="Foto profesional">
     </div>
 
     <section>
